@@ -1,0 +1,15 @@
+C:\Users\WIN7\source\repos\EntityFramework_Model_First\EntityFramework_Model_First\bin\Debug\EntityFramework_Model_First.exe.config
+C:\Users\WIN7\source\repos\EntityFramework_Model_First\EntityFramework_Model_First\bin\Debug\EntityFramework_Model_First.exe
+C:\Users\WIN7\source\repos\EntityFramework_Model_First\EntityFramework_Model_First\bin\Debug\EntityFramework_Model_First.pdb
+C:\Users\WIN7\source\repos\EntityFramework_Model_First\EntityFramework_Model_First\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\WIN7\source\repos\EntityFramework_Model_First\EntityFramework_Model_First\bin\Debug\EntityFramework.dll
+C:\Users\WIN7\source\repos\EntityFramework_Model_First\EntityFramework_Model_First\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\WIN7\source\repos\EntityFramework_Model_First\EntityFramework_Model_First\bin\Debug\EntityFramework.xml
+C:\Users\WIN7\source\repos\EntityFramework_Model_First\EntityFramework_Model_First\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\WIN7\source\repos\EntityFramework_Model_First\EntityFramework_Model_First\obj\Debug\EntityFramework_Model_First.csprojAssemblyReference.cache
+C:\Users\WIN7\source\repos\EntityFramework_Model_First\EntityFramework_Model_First\obj\Debug\EntityFramework_Model_First.Form1.resources
+C:\Users\WIN7\source\repos\EntityFramework_Model_First\EntityFramework_Model_First\obj\Debug\EntityFramework_Model_First.Properties.Resources.resources
+C:\Users\WIN7\source\repos\EntityFramework_Model_First\EntityFramework_Model_First\obj\Debug\EntityFramework_Model_First.csproj.GenerateResource.cache
+C:\Users\WIN7\source\repos\EntityFramework_Model_First\EntityFramework_Model_First\obj\Debug\EntityFramework_Model_First.csproj.CopyComplete
+C:\Users\WIN7\source\repos\EntityFramework_Model_First\EntityFramework_Model_First\obj\Debug\EntityFramework_Model_First.exe
+C:\Users\WIN7\source\repos\EntityFramework_Model_First\EntityFramework_Model_First\obj\Debug\EntityFramework_Model_First.pdb
